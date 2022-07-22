@@ -1,0 +1,104 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+h1 {
+    font-size: 60px;
+    color: #575757;
+}
+p {
+    font-size: 20px;
+    color: #828282;
+    line-height: 30px;
+}
+button {
+    border: none;
+    padding: 18px 45px;
+    border-radius: 30px;
+    background: linear-gradient(45deg, #fc8f49, #fe4e30);
+    box-shadow: 0px 0px 15px #fc8f49;
+}
+button a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+section{
+    margin-top: 100px;
+    height: 720px;
+}
+.half-width {
+    float: left;
+    margin-left: 8%;
+    width: 40%;
+}
+.top-banner-content {
+    padding-top: 120px;
+}
+.banner-description{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.about-banner{
+    background-image: url(images/about-bg.png);
+}
+.about-banner-content{
+    padding-top: 200px;
+    width: 500px;
+}
+.about-banner-image {
+    width: 415px;
+    padding-top: 60px;
+    padding-left: 250px;
+}
+.all-recipe-box {
+    margin-left: 90px;
+}
+.recipie-box{
+    float: left;
+    margin-top: 60px;
+    box-shadow: 0px 0px 40px #2c2a293d;
+    border-radius: 35px;
+    padding: 25px;
+    width: 425px;
+    margin-left: 75px;
+}
+.recipie-content{
+    text-align: center;
+}
+.recipie-box img{
+    width: 425px;
+    border-radius: 35px;
+    margin-bottom: 30px;
+}
+.recipie-box h1{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.recipie-content h1{
+    margin-bottom: 40px;
+}
+.stats-area{
+    box-shadow: 0px 0px 40px #2c2a293d;
+    margin-top: 230px;
+    height: 100px;
+    margin-bottom: 100px !important;
+    margin-left: 162px;
+    margin-right: 162px;
+    border-radius: 35px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.stats-box{
+    float: left;
+    width: 270px;
+    margin-left: 210px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    padding: 50px 0px;
+    font-size: 20px;
+}
